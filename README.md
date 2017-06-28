@@ -1,3 +1,5 @@
+Keywords: gps tracking, vehicle track
+
 # Smooth GPS Tracking with animation
 GPS Tracking application is a nice but normal scenario. In our working experience before, there are always some difficulty standing on my way. The components we used have more or less some thing that cannot implement; or maybe the experience is too bad. Some points like:
 
@@ -24,5 +26,7 @@ Here are some screenshots.
 
 In this project, the time frame is 10 times faster than the real world. You could adjust the `ellapsedTimeSpeedUpRatio` field.
 
-Happy Mapping!
-SlimGIS
+## Related Resources
+- [Source code](https://github.com/SlimGIS/GPSTrackingDemo-Wpf)
+- [Video](https://youtu.be/gXhg8Bnbf3o)
+- [Multiple vehicles tracking sample](https://slimgis.com/documents/gps-tracking-multi-vehicle-wpf)
