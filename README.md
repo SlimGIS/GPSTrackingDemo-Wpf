@@ -1,7 +1,8 @@
-Keywords: gps tracking, vehicle track
+Keywords: gps tracking, vehicle track, vehicle animation, rotate map
 
 # Smooth GPS Tracking with animation
-GPS Tracking application is a nice but normal scenario. In our working experience before, there are always some difficulty standing on my way. The components we used have more or less some thing that cannot implement; or maybe the experience is too bad. Some points like:
+
+<desc>GPS Tracking application is a nice but normal scenario. For example, lock vehicle head to north while moving; map direction automatically rotates with the vehicle's direction etc. This project will introduce you how easily to build this kind of map application with Map Kit GPS Scene.</desc> The items we are trying to build are listed below.
 
 - Lock vehicle's head north; then the map rotates and moves along with the vehicle
 - Map rotates with transition animation
@@ -9,7 +10,7 @@ GPS Tracking application is a nice but normal scenario. In our working experienc
 - Smooth panning the map while the vehicle is moving
 - Smooth animation for the running vehicle
 
-Today, we share a demo project that you could find everything I mentioned above. Hope it is useful for your project.
+This guide introduces a demo project that you could find everything I mentioned above. Hope it is useful for your project.
 
 - [GPSTrackingDemo-Wpf](https://github.com/SlimGIS/GPSTrackingDemo-Wpf)
 
@@ -27,6 +28,6 @@ Here are some screenshots.
 In this project, the time frame is 10 times faster than the real world. You could adjust the `ellapsedTimeSpeedUpRatio` field.
 
 ## Related Resources
-- [Source code](https://github.com/SlimGIS/GPSTrackingDemo-Wpf)
+- [Source Code](https://github.com/SlimGIS/GPSTrackingDemo-Wpf)
 - [Video](https://youtu.be/gXhg8Bnbf3o)
 - [Multiple vehicles tracking sample](https://slimgis.com/documents/gps-tracking-multi-vehicle-wpf)
